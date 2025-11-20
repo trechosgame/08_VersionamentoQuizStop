@@ -1,7 +1,7 @@
 # 08_VersionamentoQuizStop
  - Neste versionamento do jogo Palavras,  AudioManager.cs foi criado onde será desenvolvido a trilha
  - sonora e os cliques dos botões no quiz.
- - <img src="001.png" width="500px">
+ - <img src="2025-11-20.png" width="500px">
  
 # CÓDIGO FONTE DOS EFEITOS SONOROS:
  - https://www.youtube.com/watch?v=N8whM1GjH4w&list=PLf6aEENFZ4Fv0ifncKE3T05qrI450U_aD&index=18
